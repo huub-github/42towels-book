@@ -10,7 +10,7 @@
 | Log in with Amy's original user credentials. (This could take 93.83 billion trillion trillion centuries to brute force, but luckily she did not read the "One Important Final Note")    | ★★★                   |
 | Gain access to any access log file of the server.                                                                                                                                       | ★★★★             |
 | Identify an unsafe product that was removed from the shop and inform the shop which ingredients are dangerous.                                                                          | ★★★★             |
-| Dumpster dive the Internet for a leaked password and log in to the original user account it belongs to. (Creating a new account with the same password does not qualify as a solution.) | ★★★★★       |
+| (Not available) Dumpster dive the Internet for a leaked password and log in to the original user account it belongs to. (Creating a new account with the same password does not qualify as a solution.) | ★★★★★       |
 | Perform an unwanted information disclosure by accessing data cross-domain.                                                                                                              | ★★★★★       |
 | Forge a coupon code that gives you a discount of at least 80%.                                                                                                                          | ★★★★★★ |
 | Solve challenge #999. Unfortunately, this challenge does not exist.                                                                                                                     | ★★★★★★ |
@@ -160,7 +160,7 @@ interested in.
 
 ### Dumpster dive the Internet for a leaked password and log in to the original user account it belongs to
 
-**TODO**
+Not available
 
 #### Hints
 
