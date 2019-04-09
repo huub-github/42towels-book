@@ -15,8 +15,8 @@ find out what needs to be done.
 
 ![Partly solved Score Board](img/score-board_partly.png)
 
-The challenges are rated with a difficulty level between :star: and
-:star::star::star::star::star::star:, with more stars representing a
+The challenges are rated with a difficulty level between ★ and
+★★★★★★, with more stars representing a
 higher difficulty. To make the list of challenges less daunting, they
 are clustered by difficulty. By default only the 1-star challenges are
 unfolded. You can open or collapse all challenge blocks as you like.
