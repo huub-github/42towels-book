@@ -19,9 +19,6 @@ on the given topic._
 
 ----
 
-This book is a rebranded copy of _(don't click)_ [an open source book](https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop). _It is considered cheating_ to look at the full source while still playing the CTF.
-
-----
 
 [![CC BY-NC-ND 4.0](introduction/img/cc_by-nc-nd_4.0.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 

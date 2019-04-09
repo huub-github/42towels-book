@@ -22,14 +22,10 @@ install:
   - 'if exist _book rd /Q /S _book'
   - 'gitbook install'
   - 'gitbook pdf'
-  - 'gitbook mobi'
-  - 'gitbook epub'
 build: off
 test: off
 artifacts:
   - path: '*.pdf'
-  - path: '*.mobi'
-  - path: '*.epub'
 notifications:
   -
     provider: Slack
