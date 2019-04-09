@@ -1,6 +1,6 @@
 # 42 Towels Shop
 
-The book is divided into three parts:
+The book is divided into two parts:
 
 ### Part I - Hacking preparations
 
