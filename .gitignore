@@ -1,0 +1,15 @@
+.DS_Store
+
+# GitBook
+_book/
+*.pdf
+*.mobi
+*.epub
+
+# IntelliJ
+.idea/
+*.iml
+
+# NPM
+node_modules/
+npm-debug.log

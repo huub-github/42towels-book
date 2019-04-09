@@ -1,0 +1,12 @@
+{
+  "title": "42 Towels",
+  "author": "42 Towels",
+  "language": "en",
+  "plugins": [
+    "advanced-emoji"
+  ],
+  "pluginsConfig": {
+  },
+  "variables": {
+  }
+}
