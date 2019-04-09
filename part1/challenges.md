@@ -53,7 +53,7 @@ challenge, a notification is _immediately_ shown on the user interface.
 
 This feature makes it unnecessary to switch back and forth between the
 screen you are attacking and the score board to verify if you succeeded.
-Some challenges will force you to perform an attack outside of the Juice
+Some challenges will force you to perform an attack outside of the 42 Towels
 Shop web interface, e.g. by interacting with the REST API directly. In
 these cases the success notification will light up when you come back to
 the regular web UI the next time.

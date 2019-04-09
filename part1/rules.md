@@ -1,6 +1,6 @@
 # Hacking exercise rules
 
-## :white_check_mark: Recommended hacking tools
+## ✔ Recommended hacking tools
 
 ### Browser
 
