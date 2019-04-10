@@ -89,7 +89,14 @@ plugins/tools mentioned above.
 
 This is also the _recommended_ set of tools to start with. 
 
-Please contact the security team for any product that you'd like to use. 
+Please contact the security team for any product that you'd like to use.
+
+#### Burp Suite
+
+Burp suite might be available in Managed Software Center for you depending on your department. Go to [their documentation to get started](https://portswigger.net/burp/documentation/desktop/getting-started).
+ 
+
+**Note** that running a full scan is not allowed for this CTF event. You can however replicate requests and script or iterate requests.
 
 ### Internet
 
