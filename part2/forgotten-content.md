@@ -73,13 +73,9 @@ on its blueprint in order to make it yourself?
 
 #### Hints
 
-* The product you might want to give a closer look is the Unisex Towel.
+* The product you might want to give a closer look is the Album.
 * For your inconvenience the blueprint was _not_ misplaced into the same
   place like so many others forgotten files covered in this chapter
-
-Note: _If you are running the 42 Towels Shop with a custom
-theme and product inventory, the product to inspect will be a different
-one. The tooltip on the Score Board will tell you which one to look into._
 
 [^1]: https://www.owasp.org/index.php/OWASP_2014_Project_Handbook#tab=Project_Requirements
 
